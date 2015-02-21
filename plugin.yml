@@ -2,7 +2,7 @@ name: SimpleSpleef
 main: SimpleSpleef\Main
 version: 1.0.0
 api: [1.6.0]
-author: SuperChipsLP
+author: Jaydenb132
 description: A Spleef Plugin for PocketMine-MP
 commands:
  ss:
